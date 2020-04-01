@@ -1,10 +1,11 @@
 # Affordable PPE of Head Region for Low-Income People (for COVID-19 Response)
 
 Design & Development  : Md. Iftikhar Alam Omar 
-                        md.iftikharomar@gmail.com
+			md.iftikharomar@gmail.com
 
 Management	 : ANTT Robotics
-	            Dhaka, Bangladesh
+	 	   http://www.anttrobotics.com/
+	 	   Dhaka, Bangladesh
 
 Distribution	: Open Source
 
