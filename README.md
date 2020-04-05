@@ -16,6 +16,42 @@ Project Assets: https://github.com/Iftikhar-Omar/Low-Cost-PPE-of-Head-Region
 
 Main File with Instruction : https://github.com/Iftikhar-Omar/Low-Cost-PPE-of-Head-Region/blob/master/Affordable%20PPE%20of%20Head%20Region%20for%20Low-Income%20People%20(for%20COVID-19%20Response).pdf
 
+AN OPEN SOURCE HEAD REGION PPE
+FOR PROTECTION AGAINST COVID-19
+
+This open source head region PPE is designed by Md. Iftikhar Alam Omar from ANTT Robotics.
+
+The shortage of PPE that the communities worldwide are facing has become a big issue in our fight with COVID-19. When it’s available, it comes with a high price. Mass communities around the world including third world countries can’t always afford them.  Thats why we developed “OPEN SOURCE HEAD REGION PPE”. 
+
+The purpose of this PPE element  is to eliminate the shortage of PPE in a simple and inexpensive and scalable way, for emergency cases. It can be built by repurposing household scrap materials to make a secure protection against the virus.
+
+It is designed as an open system that can be easily produced and replicated fast, at the same time inviting everyone to contribute in its improvement as a PPE.
+
+Please note that this is not meant to replace proper medical grade PPE, it is an emergency solution when all other options are depleted.
+
+Lets not let the lack of PPE be the reason for more deaths from this unfortunate situation we as humanity found ourselves in.
+
+
+
+LASER CUTTING PARTS & ALTERNATIVES
+
+To think of a high quality approach for volunteers, the eye pieces should be laser cut. The parts with stitch holes are to be stitched around eye holes and to be secured with hot glue gun. Then the lenses are placed followed by Upper base.
+
+In case of lack of transparent acrylic laser cutting facility, polythene or any transparent scrap polymer could be used as it blocks the virus.
+
+
+
+THE PPE DESIGN
+
+
+The whole design for “OPEN SOURCE HEAD REGION PPE”is made of only these components shown below.
+
+1.Non Woven Cloth, Alternatively Shopping Bag
+2.Transparent Polymer
+3.Transparent Acrylic Sheet (Optional - to ensure high quality viewport)
+
+Designing it as simple as possible was the main challenge to block the virus from infecting the user. All the Assembly steps and instructions could be found on the pdf included in this repository.
+
 Background of the Project:
 The world is facing a global crisis posed by coronavirus.The COVID-19 pandemic has swept over the world in a geometric progression. And third world countries like Bangladesh are absolutely not prepared for it. They don't even have enough personal protective equipment to save the health care staff and doctors. So the doctors and medical staff are unwilling to give service to covid-19 patients and other patients. Lack of PPE for the marginal mass living below poverty line is making them exposed to life threat by eliminating their food supply in this lockdown affected jobless situation. 
 
