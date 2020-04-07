@@ -14,7 +14,7 @@ Project Assets: https://github.com/Iftikhar-Omar/Low-Cost-PPE-of-Head-Region
 
 
 
-Main File with Instruction : https://github.com/Iftikhar-Omar/Low-Cost-PPE-of-Head-Region/blob/master/Affordable%20PPE%20of%20Head%20Region%20for%20Low-Income%20People%20(for%20COVID-19%20Response).pdf
+Main File with Instruction : https://github.com/Iftikhar-Omar/Low-Cost-PPE-of-Head-Region/blob/master/Low-Cost%20PPE%20of%20Head%20Region%20(for%20COVID-19%20Response).pdf
 
 AN OPEN SOURCE HEAD REGION PPE
 FOR PROTECTION AGAINST COVID-19
